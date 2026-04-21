@@ -98,5 +98,4 @@ Mon parcours est un laboratoire permanent. Je ne reste jamais figé : je m'adapt
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
